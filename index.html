@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>RAID Konfigurationen Rechner</title>
+</head>
+<body>
+  <div class="container">
+    <h1>RAID Konfigurationen Rechner</h1>
+    <div>
+      <label for="numDrives">Anzahl der Festplatten:</label>
+      <input type="number" id="numDrives" min="1" value="2">
+    </div>
+    <div>
+      <label for="driveSize">Größe der Festplatten (in GB):</label>
+      <input type="number" id="driveSize" min="1" value="100">
+    </div>
+    <div>
+      <label for="raidLevel">RAID-Level auswählen:</label>
+      <select id="raidLevel">
+        <option value="0">RAID 0</option>
+        <option value="1">RAID 1</option>
+        <option value="5">RAID 5</option>
+        <option value="10">RAID 10</option>
+      </select>
+    </div>
+    <div id="raidInfo"></div>
+    <div id="raidLayout"></div>
+    <div>
+      <button id="calculateButton">Berechnen</button>
+    </div>
+    <div id="result"></div>
+  </div>
+  <script src="code.js"></script>
+</body>
+</html>
