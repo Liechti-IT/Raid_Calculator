@@ -4,7 +4,7 @@ Dies ist ein einfacher Web-Rechner, der verschiedene RAID-Konfigurationen berech
 
 ## Live-Demo
 
-Eine Live-Demo des Rechners findest du hier: [Link zur Live-Demo](https://deine-live-demo-url-hier-einfuegen)
+Eine Live-Demo des Rechners findest du hier: [Link zur Live-Demo](https://liechti-it.ch/raid.html)
 
 ## Funktionalität
 
@@ -28,7 +28,7 @@ Um den Rechner auf einem beliebigen Webserver zu hosten, folge diesen Schritten:
 
 Hier ist eine Vorschau des Rechners:
 
-![RAID Konfigurationen Rechner Vorschau](https://dein-webserver.de/raid-rechner/pfad-zum-bild.png)
+![RAID Konfigurationen Rechner Vorschau](https://liechti-it.ch/img/raid_img01.png)
 
 ## Feedback und Mitwirkung
 
