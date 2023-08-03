@@ -28,7 +28,7 @@ Um den Rechner auf einem beliebigen Webserver zu hosten, folge diesen Schritten:
 
 Hier ist eine Vorschau des Rechners:
 
-![RAID Konfigurationen Rechner Vorschau](https://liechti-it.ch/img/raid_img01.png=250x250)
+<img src="https://liechti-it.ch/img/raid_img01.png" width="400">
 
 ## Feedback und Mitwirkung
 
